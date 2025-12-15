@@ -8,7 +8,6 @@ import Dashboard from './pages/Dashboard';
 import CreateInvoice from './pages/CreateInvoice';
 import InvoicePreview from './pages/InvoicePreview';
 import About from './pages/About';
-// test commit
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
